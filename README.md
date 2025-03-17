@@ -14,6 +14,8 @@
    [MEPFeatX](https://github.com/NeuromodulationUEF/MEPFeatX)
 ***
 ## Publications:
+
+   Nguyen, D. T., Säisänen, L., Kallioniemi, E., Karjalainen, P., Rissanen, S. M., & Julkunen, P. (2025). MEPFeatX-Automated Feature Extraction of Motor-Evoked Potentials in Transcranial Magnetic Stimulation. Frontiers in Neuroscience, 18, 1415257. https://doi.org/10.3389/fnins.2024.1415257
    
    Nguyen, D. T. A., Julkunen, P., Säisänen, L., Määttä, S., Rissanen, S. M., Lintu, N., Könönen, M., Lakka, T., & Karjalainen, P. A. (2023). Developmental models of motor-evoked potential features by transcranial magnetic stimulation across age groups from childhood to adulthood. Scientific reports, 13(1), 10604. https://doi.org/10.1038/s41598-023-37775-w
    
